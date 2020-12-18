@@ -12,7 +12,7 @@
   "dependencies": {
     "cli-spinner": "^0.2.7",
     "node-dom": "^0.1.0",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "request": "^2.81.0"
   }
 }
